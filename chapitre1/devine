@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>devine</title>
+    </head>
+    <body>
+    
+    <h3>Jeu de devinette</h3>
+    <p>DEVINEZ le nombre entre 0-5</p>
+        <form name="form1? method="post">
+            <label>devine<br>
+                <input type="" name="chiffre"
+                size="40" maxlength="2">
+            </label>
+            <input type="submit" name="test" value="Tester">
+        </form>
+    </body>
+</html>
